@@ -1,8 +1,4 @@
-/*
-@import "~bootstrap/scss/functions";
-@import "~bootstrap/scss/variables";
-@import "~bootstrap/scss/mixins";
-*/
+
 
 
 $blue: #00d0b2;
@@ -12,9 +8,11 @@ $pink: #e83e8c !default;
 $red: #fe3860;
 $orange: #fd7e14 !default;
 $yellow: #ffdd57;
-$green: #28a745 !default;
+$green: #23d160;
 $teal: #20c997 !default;
 $cyan: #17a2b8 !default;
-
+$dark: #363636;
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+
