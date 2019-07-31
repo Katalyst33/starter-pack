@@ -1,6 +1,6 @@
 <template>
-    <div class="footer">
-        <div class="container ">
+    <div class="bg-dark">
+        <div class="container">
             <div class="row">
                 <div class="col-4">
                     <p>ONe item</p>
@@ -40,5 +40,7 @@
 </script>
 
 <style scoped>
-
+p{
+    color: #42b983;
+}
 </style>

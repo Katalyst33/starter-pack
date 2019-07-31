@@ -1,4 +1,5 @@
 
+import 'bootstrap'
 import '../public/scss/custom.css'
 import Vue from 'vue'
 import App from './App.vue'
